@@ -1,6 +1,9 @@
 # 遺伝的アルゴリズム?で画像生成
 ## 概要
 ターゲットの画像とのユークリッド距離を評価値として一番評価の高い生成画像を次の世代に残すプログラム  
+## Requirements
+- opencv-python
+- numpy
 ## 生成例1
 ### 画像
 ![](https://user-images.githubusercontent.com/63792861/119256038-9ec69f80-bbf9-11eb-912a-38705da5175a.jpg)
